@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j-vandy
 - 👀 I’m interested in video game development and graphics programming
-- 🌱 I’m currently learning rendering engines
+- 🌱 I’m currently learning vulkan
 - 💞️ I’m looking to collaborate on gamejams
 - 📫 How to reach me: jacksonvan2003@gmail.com
 
